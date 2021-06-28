@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest baseLocation="downloads.dell.com" dateTime="2021-06-28T21:02:56.5028584Z" releaseId="a8dcc132-bd61-468d-92f3-71cbb1ac9b56" name="latitude3400" description="" >
+<InventoryComponent inventoryCollectorType="COMPREHENSIVE" schemaVersion="3.0" releaseID="GD7MF" releaseDate="June 17, 2021" vendorVersion="9.8.0.0" dellVersion="A00" osCode="WIN" path="FOLDER07437590M/1/InvColPC_9.8.0.0.exe" size="23227848" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">705d46f8194d38f654f062d6b9c4b100</Hash>
+      <Hash algorithm="SHA256">3a7e6a238a39c2b9614b5d50f175f8143b71b8870c1cede1207abaaff021fd98</Hash>
+      <Hash algorithm="SHA1">f4538bde8898896fd6e1818a9d113411d4cba42a</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<InventoryComponent inventoryCollectorType="COMPACT" schemaVersion="3.0" releaseID="HRJ7V" releaseDate="June 17, 2021" vendorVersion="9.8.0.0" dellVersion="A00" osCode="WIN" path="FOLDER07437573M/1/InvColPC_9.8.0.0.exe" size="10339240" xmlns="openmanage/cm/dm">
+    <Cryptography>
+      <Hash algorithm="MD5">e15faef782e9d12f0a31caa094394289</Hash>
+      <Hash algorithm="SHA256">b3b62112ac9fd9cc2bdfdd8cb7e4197fe037a911a58148f9daaecaf035031af6</Hash>
+      <Hash algorithm="SHA1">40f8e54572a88e9718811b4845ecf3bf055d2c62</Hash>
+    </Cryptography>
+  </InventoryComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="47WXT" releaseDate="June 05, 2020" vendorVersion="3.10.100.4122" dellVersion="A00" packageType="LW64" path="FOLDER06144847M/1/Intel-Integrated-Sensor-Solution-Driver_47WXT_WIN64_3.10.100.4122_A00.EXE" packageID="47WXT" dateTime="2019-08-23T06:53:35+05:30" size="17000248" identifier="d29a62be-ace5-4d05-8f25-34e25b03424e" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Integrated Sensor Solution Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Intel Integrated Sensor Solution Driver. The driver regulates the sensors for supported systems.]]></Display>
+  </Description>
+  <Category value="CS">
+    <Display lang="en"><![CDATA[Chipset]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103834" embedded="false">
+      <PCIInfo deviceID="02FC" vendorID="8086" subDeviceID="09EC" subVendorID="1028" />
+      <PCIInfo deviceID="02FC" vendorID="8086" subDeviceID="09ED" subVendorID="1028" />
+      <PCIInfo deviceID="9D35" vendorID="8086" subDeviceID="09F1" subVendorID="1028" />
+      <PCIInfo deviceID="9D35" vendorID="8086" subDeviceID="09F2" subVendorID="1028" />
+      <Display><![CDATA[Intel(R) Integrated Sensor Solution]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="EXCAL" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit- Excalibur]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="EXCBC" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit- Excalibur]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="EXNOS" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit- Excalibur]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=47WXT">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">2e2269fb6c5bd970adfe95c6a0db99c0</Hash>
+    <Hash algorithm="SHA256">ec26d5c1dfdb86fe4276ed2d35e07fdf9fc6808b1cb8bb542f0648f9b2c8a308</Hash>
+    <Hash algorithm="SHA1">8f1ab34b5467016b28af93820197a4c60f7aecc5</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="G75TH" releaseDate="June 03, 2021" vendorVersion="2300.0030" dellVersion="A00" packageType="LW64" path="FOLDER07421541M/1/Micron-2300-PCIe-NVMe-Solid-State-Drive-Firmware_G75TH_WIN64_2300.0030_A00.EXE" packageID="G75TH" dateTime="2021-05-20T11:20:36+05:30" size="12892048" identifier="4a60ed4e-e9e4-485a-9ccf-b1b882132c58" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Micron 2300 PCIe NVMe Solid-State Drive Firmware Update]]></Display>
+  </Name>
+  <ComponentType value="FRMW">
+    <Display lang="en"><![CDATA[Firmware]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the firmware for Micron 2300 256 GB, 512 GB, and 1 TB solid-state drives, revision 23000030. Storage firmware is a microcode that is embedded on storage devices such as hard drives or solid-state drives. The firmware manages the functionality of the devices.]]></Display>
+  </Description>
+  <Category value="SA">
+    <Display lang="en"><![CDATA[Serial ATA]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="109526" embedded="false">
+      <Display><![CDATA[Micron 2300 1TB PCIE NVME 2280 SSD (CLASS 40)]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=G75TH">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">02cb3ed51cc6007dab4bc377e53b1e37</Hash>
+    <Hash algorithm="SHA256">484f8cc7a274682ceeabd5f9b36f2d8e3c0ba300ef38b66a88e5a4ba62768db3</Hash>
+    <Hash algorithm="SHA1">aff03a7dfa44f5e329b5bcdf2a8c3794bf6ba352</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="GD7J6" releaseDate="May 20, 2021" vendorVersion="3.9.0" dellVersion="A00" packageType="LW64" path="FOLDER07383273M/1/Dell-Power-Manager-Service_GD7J6_WIN64_3.9.0_A00.EXE" packageID="GD7J6" dateTime="2021-05-13T18:00:52+05:30" size="17905752" identifier="a43d3ba1-eb2c-4bfd-be4d-d2291c7091c2" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Power Manager Service]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Dell Power Manager Service application. Dell Power Manager is an application that allows you to extend the battery life of the system. You can configure how the battery is maintained based on your personal preferences. It also supports alert notifications that are related to power adapter, battery, docking, and USB Type-C device or protocol incompatibility.]]></Display>
+  </Description>
+  <Category value="SM">
+    <Display lang="en"><![CDATA[Systems Management]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="106678" embedded="false">
+      <Display><![CDATA[Dell Power Manager]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=GD7J6">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">45673a27e4b339cce110af3edf960bc1</Hash>
+    <Hash algorithm="SHA256">793b5d9026d7a6d323badddc263dbe310d7488a369c0b4a096309fe665ab47b2</Hash>
+    <Hash algorithm="SHA1">c5ff294c5ee1ca6074759dee13a95887338f730b</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="NC09P" releaseDate="June 22, 2021" vendorVersion="3.8.0" dellVersion="A00" packageType="LW64" path="FOLDER07152830M/1/Dell-Power-Manager-Service_NC09P_WIN64_3.8.0_A00.EXE" packageID="NC09P" dateTime="2021-01-28T03:02:31+05:30" size="17907624" identifier="b0a4020a-8c8d-46e6-8baf-d5ca241c5de8" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Power Manager Service]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Dell Power Manager Service application. Dell Power Manager is an application that allows you to extend the battery life of the system. You can configure how the battery is maintained based on your personal preferences. It also supports alert notifications that are related to power adapter, battery, docking, and USB Type-C device or protocol incompatibility.]]></Display>
+  </Description>
+  <Category value="SM">
+    <Display lang="en"><![CDATA[Systems Management]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="106678" embedded="false">
+      <Display><![CDATA[Dell Power Manager]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=NC09P">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">fa4e1267c637d5f954e9bcce8d9c4ed9</Hash>
+    <Hash algorithm="SHA256">fa3659eedeb508ab096a101a83a525933792817659bc436fe8cc17f82b28fbb9</Hash>
+    <Hash algorithm="SHA1">1510b3e9023c7d76ff21eae3d86c67eeef58b6e6</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="YJWR3" releaseDate="June 18, 2021" vendorVersion="18.3.0.1003" dellVersion="A00" packageType="LW64" path="FOLDER07326002M/1/Intel-Rapid-Storage-Technology-Driver-and-Application_YJWR3_WIN64_18.3.0.1003_A00.EXE" packageID="YJWR3" dateTime="2021-04-20T14:44:41+05:30" size="62986472" identifier="31a4dee8-1109-4777-8566-37e43114b719" baseBuildNumber="15063" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel Rapid Storage Technology Driver and Application]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver and application for the Intel Rapid Storage Technology. The Intel Rapid Storage Technology is an application that enhances the performance and reliability of Windows-based systems with storage devices.]]></Display>
+  </Description>
+  <Category value="SA">
+    <Display lang="en"><![CDATA[Serial ATA]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100638" embedded="false">
+      <PCIInfo deviceID="09AB" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A0B" vendorID="8086" subDeviceID="0A5C" subVendorID="1028" />
+      <PCIInfo deviceID="9A0B" vendorID="8086" subDeviceID="0A61" subVendorID="1028" />
+      <PCIInfo deviceID="9A0B" vendorID="8086" subDeviceID="0A62" subVendorID="1028" />
+      <Display><![CDATA[Intel Rapid Storage Technology]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedDCHDevices>
+    <Device componentID="100638" guid="0eec5919-7dfe-41d9-845c-188dc040fbc2" infType="base" componentType="DRVR" version="18.33.0.1003">
+      <PCIInfo deviceID="02D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D2" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43D2" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A282" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A382" vendorID="8086" subDeviceID="" subVendorID="" />
+    </Device>
+    <Device componentID="100638" guid="11570953-e442-43df-b59f-05322b6e2a39" infType="base" componentType="DRVR" version="18.3.0.1003">
+      <PCIInfo deviceID="09AB" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A0B" vendorID="8086" subDeviceID="" subVendorID="" />
+    </Device>
+    <Device componentID="100638" guid="1de08ae3-a1dd-4ed8-b5d4-ad6d731c2433" infType="extension" componentType="DRVR" id="{8541b81c-193b-4f91-a86b-53df20c1974b}" version="18.3.0.1003" />
+    <Device componentID="100638" guid="25992140-d865-498c-91fe-3bc179f8688f" infType="component" componentType="DRVR" version="18.3.0.1003">
+      <Generic>SWC\VID8086&amp;PID2822&amp;SID0001</Generic>
+      <Generic>SWC\VID8086&amp;SW_RstShellExtensions</Generic>
+    </Device>
+    <Device componentID="100638" guid="2745150e-e547-452c-ab20-824ebef0a00e" infType="component" componentType="DRVR" version="18.3.0.1003">
+      <Generic>SWC\VID8086&amp;SW_RstHSA</Generic>
+    </Device>
+    <Device componentID="100638" guid="2abdde6f-1dd0-4de8-9be4-640582bb261b" infType="base" componentType="DRVR" version="18.3.0.1003">
+      <PCIInfo deviceID="09AB" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="9A0B" vendorID="8086" subDeviceID="" subVendorID="" />
+    </Device>
+    <Device componentID="100638" guid="482ce91c-b77d-4ec3-a873-f8c19c1bb46d" infType="base" componentType="DRVR" version="18.33.0.1003">
+      <PCIInfo deviceID="282A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43DE" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2822" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D7" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A286" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D6" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43D6" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A386" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02D7" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34D7" vendorID="8086" subDeviceID="" subVendorID="" />
+    </Device>
+    <Device componentID="100638" guid="6f9b0eb5-c28c-4152-a404-74e6eaa2abf4" infType="" componentType="APP" id="appup.inteloptanememoryandstoragemanagement_8j3eq9eme6ctt" version="18.1.1015.0" />
+    <Device componentID="100638" guid="8e5ee0b2-2234-490d-ba7f-2c66fd0d316a" infType="base" componentType="DRVR" version="18.33.0.1003">
+      <PCIInfo deviceID="A382" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D2" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34D3" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43D2" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A282" vendorID="8086" subDeviceID="" subVendorID="" />
+    </Device>
+    <Device componentID="100638" guid="af444132-6776-4c7c-b067-62e487416ce8" infType="extension" componentType="DRVR" id="{8541b81c-193b-4f91-a86b-53df20c1974b}" version="18.3.0.1003" />
+    <Device componentID="100638" guid="d45cb24f-27db-44ca-8410-969f910f8bb8" infType="component" componentType="DRVR" version="18.3.0.1003">
+      <Generic>SWC\VID8086&amp;SW_RstHSA</Generic>
+    </Device>
+    <Device componentID="100638" guid="e0230a2b-297a-43b5-9aa0-77aa1493b25f" infType="base" componentType="DRVR" version="18.33.0.1003">
+      <PCIInfo deviceID="A386" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43D6" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="02D7" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D7" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="43DE" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="34D7" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="A286" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="06D6" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="282A" vendorID="8086" subDeviceID="" subVendorID="" />
+      <PCIInfo deviceID="2822" vendorID="8086" subDeviceID="" subVendorID="" />
+    </Device>
+    <Device componentID="100638" guid="f855bf73-5d62-4bfe-9c47-d339b618b5ea" infType="component" componentType="DRVR" version="18.3.0.1003">
+      <Generic>SWC\VID8086&amp;PID2822&amp;SID0001</Generic>
+      <Generic>SWC\VID8086&amp;SW_RstShellExtensions</Generic>
+    </Device>
+  </SupportedDCHDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=YJWR3">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">756f81640c59784a4ec247c63081e7b0</Hash>
+    <Hash algorithm="SHA256">ca0dd5d3af0b53c07299fd97e91a8256a961aa4b79b4609d34112751923a5e0a</Hash>
+    <Hash algorithm="SHA1">62617ee3c3be096d0c5afc1b8040f039873751dc</Hash>
+  </Cryptography>
+  <AppliesTo>
+    <DeviceInformation>Intel® Rapid Storage Technology</DeviceInformation>
+  </AppliesTo>
+  <DeviceGroup>
+    <OperatingSystem osCode="Windows10.0" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0" buildNumber="15063">
+      <Display lang="en"><![CDATA[Windows 10 x64-Bit]]></Display>
+    </OperatingSystem>
+    <Device>0eec5919-7dfe-41d9-845c-188dc040fbc2</Device>
+    <Device>11570953-e442-43df-b59f-05322b6e2a39</Device>
+    <Device>1de08ae3-a1dd-4ed8-b5d4-ad6d731c2433</Device>
+    <Device>6f9b0eb5-c28c-4152-a404-74e6eaa2abf4</Device>
+    <Device>d45cb24f-27db-44ca-8410-969f910f8bb8</Device>
+    <Device>e0230a2b-297a-43b5-9aa0-77aa1493b25f</Device>
+    <Device>f855bf73-5d62-4bfe-9c47-d339b618b5ea</Device>
+  </DeviceGroup>
+  <DeviceGroup>
+    <OperatingSystem osCode="Windows10.0" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0" buildNumber="15063">
+      <Display lang="en"><![CDATA[Windows 10 x64-Bit]]></Display>
+    </OperatingSystem>
+    <Device>0eec5919-7dfe-41d9-845c-188dc040fbc2</Device>
+    <Device>11570953-e442-43df-b59f-05322b6e2a39</Device>
+    <Device>1de08ae3-a1dd-4ed8-b5d4-ad6d731c2433</Device>
+    <Device>6f9b0eb5-c28c-4152-a404-74e6eaa2abf4</Device>
+    <Device>d45cb24f-27db-44ca-8410-969f910f8bb8</Device>
+    <Device>e0230a2b-297a-43b5-9aa0-77aa1493b25f</Device>
+    <Device>f855bf73-5d62-4bfe-9c47-d339b618b5ea</Device>
+    <Device>25992140-d865-498c-91fe-3bc179f8688f</Device>
+    <Device>2745150e-e547-452c-ab20-824ebef0a00e</Device>
+    <Device>2abdde6f-1dd0-4de8-9be4-640582bb261b</Device>
+    <Device>482ce91c-b77d-4ec3-a873-f8c19c1bb46d</Device>
+    <Device>8e5ee0b2-2234-490d-ba7f-2c66fd0d316a</Device>
+    <Device>af444132-6776-4c7c-b067-62e487416ce8</Device>
+  </DeviceGroup>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="1W2F8" releaseDate="May 12, 2021" vendorVersion="9210.3051" dellVersion="A00" packageType="LWXP" path="FOLDER07317494M/1/ADATA-IM2P33F3-Series-Solid-State-Drive-Firmware_1W2F8_WIN_9210.3051_A00.EXE" packageID="1W2F8" dateTime="2021-04-30T13:30:34+05:30" size="9981880" identifier="52393d7a-0d2f-461b-ab43-d37eee414cb2" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[ADATA IM2P33F3 Series Solid-State Drive Firmware Update]]></Display>
+  </Name>
+  <ComponentType value="FRMW">
+    <Display lang="en"><![CDATA[Firmware]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the firmware for ADATA IM2P33F3 128 GB, 256 GB, and 512 GB, Revision 92103051. Storage firmware is a microcode that is embedded on storage devices such as hard drives or solid-state drives. The firmware manages the functionality of the devices.]]></Display>
+  </Description>
+  <Category value="SA">
+    <Display lang="en"><![CDATA[Serial ATA]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="108739" embedded="false">
+      <Display><![CDATA[ADATA 33F3 128G PCIE NVME 2230 SSD]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=1W2F8">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">c5b79957e5bcf717bb9ea9ce0864c40c</Hash>
+    <Hash algorithm="SHA256">8f3e2ca210977eb3e7a3d6ffc8b259ae784f64dc8d11a2cda07bfd3ff9cdeb0e</Hash>
+    <Hash algorithm="SHA1">45cefc3de8d45b48200a7756c2cb1a3e98258cd8</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="3YRHN" releaseDate="April 23, 2021" vendorVersion="2232.1115" dellVersion="A00" packageType="LWXP" path="FOLDER07267813M/1/SSSTC-Solid-State-Drive-Firmware-Update-for-CL1-3D512-Q11_3YRHN_WIN_2232.1115_A00.EXE" packageID="3YRHN" dateTime="2020-12-18T08:08:43+05:30" size="9375472" identifier="c30fd7aa-0f33-45a4-91e0-a7d0c0aba3f7" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[SSSTC Solid-State Drive Firmware Update for CL1-3D512-Q11]]></Display>
+  </Name>
+  <ComponentType value="FRMW">
+    <Display lang="en"><![CDATA[Firmware]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the firmware for SSSTC CL1-3D512-Q11 512 GB, Revision 22321115. Storage firmware is a microcode that is embedded on storage devices such as hard drives or solid-state drives. The firmware manages the functionality of the devices.]]></Display>
+  </Description>
+  <Category value="SA">
+    <Display lang="en"><![CDATA[Serial ATA]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="108814" embedded="false">
+      <Display><![CDATA[LITEON CL1 512G PCIE NVME 2230 SSD (CLASS 35)]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=3YRHN">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">3105a4e5bdb7455832d93059427b31ad</Hash>
+    <Hash algorithm="SHA256">892b5270fdefa6a3e437b3f21fed8e36daf8f1fc109ce29cc31b366b320f26b1</Hash>
+    <Hash algorithm="SHA1">632f32209daaf095fd1033f7d9e4a06a37be2f03</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="6F1GY" releaseDate="June 08, 2021" vendorVersion="27.21.14.6231" dellVersion="A13" packageType="LWXP" path="FOLDER07314169M/2/NVIDIA-Graphics-Driver_6F1GY_WIN_27.21.14.6231_A13.EXE" packageID="6F1GY" dateTime="2021-04-23T14:43:21+05:30" size="653717768" identifier="a8fec858-04de-4707-b95e-d1b45a4c502d" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[NVIDIA Graphics Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the NVIDIA graphics driver. A graphics or video driver is the software that enables communication between the graphics card and the operating system, games, and applications.]]></Display>
+  </Description>
+  <Category value="VI">
+    <Display lang="en"><![CDATA[Video]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100688" embedded="false">
+      <PCIInfo deviceID="1D13" vendorID="10DE" subDeviceID="0950" subVendorID="1028" />
+      <PCIInfo deviceID="1D13" vendorID="10DE" subDeviceID="0951" subVendorID="1028" />
+      <PCIInfo deviceID="1E91" vendorID="10DE" subDeviceID="09E1" subVendorID="1028" />
+      <PCIInfo deviceID="1E91" vendorID="10DE" subDeviceID="09E2" subVendorID="1028" />
+      <PCIInfo deviceID="1F14" vendorID="10DE" subDeviceID="09E1" subVendorID="1028" />
+      <PCIInfo deviceID="1F14" vendorID="10DE" subDeviceID="09E2" subVendorID="1028" />
+      <PCIInfo deviceID="1F94" vendorID="10DE" subDeviceID="09E1" subVendorID="1028" />
+      <PCIInfo deviceID="1F94" vendorID="10DE" subDeviceID="09E2" subVendorID="1028" />
+      <PCIInfo deviceID="1F95" vendorID="10DE" subDeviceID="09E1" subVendorID="1028" />
+      <PCIInfo deviceID="1F95" vendorID="10DE" subDeviceID="09E2" subVendorID="1028" />
+      <PCIInfo deviceID="2191" vendorID="10DE" subDeviceID="09E1" subVendorID="1028" />
+      <PCIInfo deviceID="2191" vendorID="10DE" subDeviceID="09E2" subVendorID="1028" />
+      <Display><![CDATA[NVIDIA Graphics]]></Display>
+    </Device>
+    <Device componentID="107418" embedded="false">
+      <Display><![CDATA[Nvidia Graphic MX250]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="EXCAL" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit- Excalibur]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="EXCBC" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit- Excalibur]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="EXNOS" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-bit- Excalibur]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=6F1GY">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">e31ead3b3795b7ac1676cd2f15ad7cdd</Hash>
+    <Hash algorithm="SHA256">ffcfc1d2c22046977cb7d99ae87f2549300840ff6e4322a1a0c525a3c5a5dd21</Hash>
+    <Hash algorithm="SHA1">3d0ddee41cd71d2df2cedca3d7a833f002368a31</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="6R88F" releaseDate="June 18, 2021" vendorVersion="10.5.1.114" dellVersion="A00" packageType="LWXP" path="FOLDER07462032M/1/Dell-Command-Monitor_6R88F_WIN_10.5.1.114_A00.EXE" packageID="6R88F" dateTime="2021-06-08T15:28:08+05:30" size="39043480" identifier="438b4f85-6f4f-46b7-846a-a2ee6a8cf6ee" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Command | Monitor]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Dell Command | Monitor application. The Dell Command | Monitor software application enables remote management of client systems. It uses application programs to access the system information, monitor the status, or change the state of the system such as remotely shutting down the system.]]></Display>
+  </Description>
+  <Category value="SM">
+    <Display lang="en"><![CDATA[Systems Management]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="1517" embedded="false">
+      <Display><![CDATA[Dell Command | Monitor]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="PE1064" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7Pr6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7Pr6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64P" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64P" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WIN7x" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WIN7x" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=6R88F">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">1032ad8a8e05c98c76a28c31b15c79dd</Hash>
+    <Hash algorithm="SHA256">172078540cb8c1825bd8191bf95a8944e9b52c44e4fb51ad93144f68cbac3e86</Hash>
+    <Hash algorithm="SHA1">2e78277bd2f04dc7d3e0c54363b678cc60779de9</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="CCPK8" releaseDate="May 18, 2021" vendorVersion="6.0.9151.1" dellVersion="A12" packageType="LWXP" path="FOLDER07260688M/2/Realtek-High-Definition-Audio-Driver_CCPK8_WIN_6.0.9151.1_A12.EXE" packageID="CCPK8" dateTime="2021-04-17T09:26:28+05:30" size="925848512" identifier="d296fe42-1d5e-492e-bcdf-ca29ab0e7ac8" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Realtek High Definition Audio Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Realtek High Definition audio driver. Audio driver is the software that helps your operating system to communicate with audio devices such as internal sound cards, speakers, headsets, and microphones.]]></Display>
+  </Description>
+  <Category value="AU">
+    <Display lang="en"><![CDATA[Audio]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="100352" embedded="false">
+      <PCIInfo deviceID="0236" vendorID="10EC" subDeviceID="09EC" subVendorID="1028" />
+      <PCIInfo deviceID="0236" vendorID="10EC" subDeviceID="09ED" subVendorID="1028" />
+      <PCIInfo deviceID="0236" vendorID="10EC" subDeviceID="09F1" subVendorID="1028" />
+      <PCIInfo deviceID="0236" vendorID="10EC" subDeviceID="09F2" subVendorID="1028" />
+      <Display><![CDATA[Realtek High Definition Audio]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=CCPK8">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">9281181db330939e546e5457efd1eb36</Hash>
+    <Hash algorithm="SHA256">6622a88505813e7091f77f070907c3d39def3a3bdb0cfa96eec0965651c41666</Hash>
+    <Hash algorithm="SHA1">9b3e0efb652beb178b0314f06fccfb19d96d56f6</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="DF8CW" releaseDate="May 11, 2021" vendorVersion="2.1.0" dellVersion="A02" packageType="LWXP" path="FOLDER07338430M/1/Dell-Security-Advisory-Update-DSA-2021-088_DF8CW_WIN_2.1.0_A02.EXE" packageID="DF8CW" dateTime="2021-05-06T20:07:23+05:30" size="8300352" identifier="fc736ad2-d05f-4a79-bb8a-9a524ab7b0fa" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Security Advisory Update - DSA-2021-088]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the remedy described in Remediation Step 1 of Dell Security Advisory DSA-2021-088. See <a href="https://www.dell.com/support/kbdoc/000186019">Dell Security Advisory DSA-2021-088</a> for details.]]></Display>
+  </Description>
+  <Category value="SY">
+    <Display lang="en"><![CDATA[Security]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="111084" embedded="false">
+      <Display><![CDATA[DSA-2021-088,UTILITY]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10H2" osVendor="Microsoft" osArch="x86" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 32-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P2" osVendor="Microsoft" osArch="x86" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 32-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7H32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7H64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7HP3" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7HP6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7P32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7Pr6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W8-64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="2" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W864P" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="2" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB32P" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64P" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=DF8CW">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">954c89c4d8833b6d975544e9f930f167</Hash>
+    <Hash algorithm="SHA256">1a8187a0c25c7a37c953bafd6e545a8fda32593cc58617bd85e686c1620ea870</Hash>
+    <Hash algorithm="SHA1">fe71a58eae388c2a189ff234eb108f82c65025ea</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="FWCNW" releaseDate="June 22, 2021" vendorVersion="5.4.1.14954" dellVersion="A00" packageType="LWXP" path="FOLDER07226700M/1/Dell-SupportAssist-OS-Recovery-Plugin-for-Dell-Update_FWCNW_WIN_5.4.1.14954_A00.EXE" packageID="FWCNW" dateTime="2020-07-01T21:17:29+05:30" size="27019824" identifier="f4b83348-1045-426a-8680-fd8e13f2ac0a" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell SupportAssist OS Recovery Plugin for Dell Update]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[The Dell Update - SupportAssist Update Plugin works in conjunction with the Dell Update application to keep your systems recovery environment up to date with the latest version of SupportAssist OS Recovery. SupportAssist OS Recovery is a powerful recovery tool designed to help you diagnosis, fix or recover your system when you are experiencing issues. The operating system will provide you a kiosk-style application for easy interaction that will guide you through various options to correct your systems issue. This operating system will automatically engage on system boot failures. In addition, SupportAssist OS Recovery can be selected manually during boot by pressing F12 to call the one time boot and choosing the "SupporAssist OS Recovery" option.]]></Display>
+  </Description>
+  <Category value="AP">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="104763" embedded="false">
+      <Display><![CDATA[Dell SupportAssist OS Recovery]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=FWCNW">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">a98bef10fe9f4e07366d147c5e1aa9ef</Hash>
+    <Hash algorithm="SHA256">92319110e13cb9927e1e21af97d8c2dcbdaeae8e9ec443b60557880684a23c46</Hash>
+    <Hash algorithm="SHA1">edd163205830688d861bbc57f5d889708c69d2b1</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="JC24P" releaseDate="June 02, 2021" vendorVersion="22.30.0.11" dellVersion="A29" packageType="LWXP" path="FOLDER07095428M/4/Intel-AX210-AX200-AX201-9260-9560-9462-Wi-Fi-UWD_JC24P_WIN_22.30.0.11_A29_03.EXE" packageID="JC24P" dateTime="2021-01-18T14:31:57+05:30" size="52180056" identifier="0fc21593-ade5-4e54-912d-23a8b7b27be4" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Intel AX210/AX200/AX201/9260/9560/9462 Wi-Fi UWD Driver]]></Display>
+  </Name>
+  <ComponentType value="DRVR">
+    <Display lang="en"><![CDATA[Driver]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the driver for the Intel AX210, AX200, AX201, 9260, 9560, and 9462 wireless cards. Wireless drivers help your operating system to communicate with wireless devices such as wireless cards and network interface controllers.]]></Display>
+  </Description>
+  <Category value="NI">
+    <Display lang="en"><![CDATA[Network]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="103005" embedded="false">
+      <PCIInfo deviceID="02F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <Display><![CDATA[Intel 9260 and AX201 WiFi Driver]]></Display>
+    </Device>
+    <Device componentID="103305" embedded="false">
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="06F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4010" subVendorID="8086" />
+      <PCIInfo deviceID="2526" vendorID="8086" subDeviceID="4018" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="0080" subVendorID="8086" />
+      <PCIInfo deviceID="2723" vendorID="8086" subDeviceID="4080" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="0020" subVendorID="8086" />
+      <PCIInfo deviceID="2725" vendorID="8086" subDeviceID="4020" subVendorID="8086" />
+      <PCIInfo deviceID="31DC" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="34F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="43F0" vendorID="8087" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4030" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="4234" subVendorID="8086" />
+      <PCIInfo deviceID="9DF0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="4070" subVendorID="8086" />
+      <PCIInfo deviceID="A0F0" vendorID="8086" subDeviceID="42A4" subVendorID="8086" />
+      <Display><![CDATA[Intel AX200/AX201/9260/9560/9462 WiFi UWD]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="IOT01" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WTCLD" osVendor="Microsoft" osArch="x64" majorVersion="0" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10S 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=JC24P">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="2">
+    <Display lang="en"><![CDATA[Urgent]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">3dd7e1d7d5e1d3e847420c9308b544c0</Hash>
+    <Hash algorithm="SHA256">10a0923d6fba81e61fbba861e80963fabe06da1fe770890475b4c6ff1dad441d</Hash>
+    <Hash algorithm="SHA1">32aa3965dc9f5f7b0d174398f03fc05801607d74</Hash>
+  </Cryptography>
+</SoftwareComponent>
+<SoftwareComponent schemaVersion="3.0" releaseID="XM3K1" releaseDate="June 04, 2021" vendorVersion="4.2.1" dellVersion="A00" packageType="LWXP" path="FOLDER07414743M/1/Dell-Command-Update-Application_XM3K1_WIN_4.2.1_A00.EXE" packageID="XM3K1" dateTime="2021-05-07T16:51:57+05:30" size="27203456" identifier="8c8458d5-00ac-4620-8e97-ff25ed1dd993" xmlns="openmanage/cm/dm">
+  <Name>
+    <Display lang="en"><![CDATA[Dell Command | Update Application]]></Display>
+  </Name>
+  <ComponentType value="APAC">
+    <Display lang="en"><![CDATA[Application]]></Display>
+  </ComponentType>
+  <Description>
+    <Display lang="en"><![CDATA[This package contains the Dell Command Update application that supports Win32. Dell Command Update is a stand-alone application for client systems, that provides updates for system software that is released by Dell. This application simplifies the BIOS, firmware, driver, and application update experience for Dell client hardware.]]></Display>
+  </Description>
+  <Category value="SM">
+    <Display lang="en"><![CDATA[Systems Management]]></Display>
+  </Category>
+  <SupportedDevices>
+    <Device componentID="23400" embedded="false">
+      <Display><![CDATA[Dell Command | Update]]></Display>
+    </Device>
+  </SupportedDevices>
+  <SupportedSystems>
+    <Brand key="28" prefix="LAT">
+      <Display lang="en"><![CDATA[Latitude]]></Display>
+      <Model systemID="09EC">
+        <Display lang="en"><![CDATA[3410]]></Display>
+      </Model>
+    </Brand>
+  </SupportedSystems>
+  <SupportedOperatingSystems>
+    <OperatingSystem osCode="IOTL3" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H2" osVendor="Microsoft" osArch="x86" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 32-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10H4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P2" osVendor="Microsoft" osArch="x86" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 32-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W10P4" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7H32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7H64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7HP3" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7HP6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7P32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="W7Pr6" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="1" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 7 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB32" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB32P" osVendor="Microsoft" osArch="x86" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 32-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WB64P" osVendor="Microsoft" osArch="x64" majorVersion="6" minorVersion="3" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 8.1 64-bit]]></Display>
+    </OperatingSystem>
+    <OperatingSystem osCode="WEL16" osVendor="Microsoft" osArch="x64" majorVersion="10" minorVersion="0" spMajorVersion="0" spMinorVersion="0">
+      <Display lang="en"><![CDATA[Windows 10 64-Bit]]></Display>
+    </OperatingSystem>
+  </SupportedOperatingSystems>
+  <ImportantInfo URL="https://www.dell.com/support/home/us/en/19/Drivers/DriversDetails?driverId=XM3K1">
+    <Display lang="en"><![CDATA[NA]]></Display>
+  </ImportantInfo>
+  <Criticality value="1">
+    <Display lang="en"><![CDATA[Recommended]]></Display>
+  </Criticality>
+  <Cryptography>
+    <Hash algorithm="MD5">677bacd2255e7374c892c6001bba873a</Hash>
+    <Hash algorithm="SHA256">318507f9e29285549b843bc062e1b7261eb506112b3f9a7067d135cb1f2c0c8f</Hash>
+    <Hash algorithm="SHA1">a2f3d088f3b45744c5d2f9253ada70115aea61eb</Hash>
+  </Cryptography>
+  <SharedModules>
+    <SharedModule moduleID="107714" />
+  </SharedModules>
+</SoftwareComponent>
+</Manifest>
